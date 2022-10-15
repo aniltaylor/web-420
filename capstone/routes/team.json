@@ -1,0 +1,10 @@
+
+{    
+    "teamName":"wildHockey",
+    "mascot": "Nordy",
+    "numPlayer":[{
+        "firstName":"kirill",
+        "lastName": "Kaprizov",
+        "Salary":"285000"
+    }]     
+}
